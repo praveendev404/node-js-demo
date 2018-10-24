@@ -1,0 +1,30 @@
+{
+    "test": {
+        "server": "192.168.1.6\\DEVINST",
+        "database": "NodeDemo",
+        "user": "testuser",
+        "password": "testUse6"
+    },
+    "development": {
+        "server": "TR-D006-PC\\SQLEXP",
+        "database": "TestDB",
+        "user": "sa",
+        "password": "test12$",
+        "port": 50787,
+        "dialect": "mssql",
+        "operatorAliases": false,
+        "dialectOptions": {
+            "encrypt": false
+        }
+    },
+    "mailConfig": {
+        "user": "ganeshtech493803@gmail.com",
+        "password": "ganesh493803"
+    },
+    "mailOptions": {
+        "from": "ganeshtech493803@gmail.com",
+        "to": "ganesh.reddy803@gmail.com",
+        "subject": "Test Mail",
+        "text": "This is test mail from node js application"
+    }
+}

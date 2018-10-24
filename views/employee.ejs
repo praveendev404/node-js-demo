@@ -1,0 +1,42 @@
+<form method="POST" action="/api/employee/addemployee">
+    <table>
+        <tr>
+            <td>Name:</td>
+            <td>
+                <input type="text" name="Name" value="<%= employee.Name %>"/>
+            </td>
+        </tr>
+        <tr>
+            <td>Mobile:</td>
+            <td>
+                <input type="text" name="Mobile" value="<%= employee.Mobile %>"/>
+            </td>
+        </tr>
+        <tr>
+            <td>Email:</td>
+            <td>
+                <input type="text" name="Email" value="<%= employee.Email %>"/>
+            </td>
+        </tr>
+        <tr>
+            <td>Department:</td>
+            <td>
+                <input type="text" name="Department" value="<%= employee.Department %>"/>
+            </td>
+        </tr>
+        <tr>
+            <td>Salary:</td>
+            <td>
+                <input type="text" name="Salary" value="<%= employee.Salary %>"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" value="Save" />
+            </td>
+            <td>
+                <input type="reset" value="Reset" />
+            </td>
+        </tr>
+    </table>
+</form>
