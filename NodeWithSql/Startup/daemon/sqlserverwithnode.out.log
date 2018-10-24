@@ -1,0 +1,417 @@
+{ Error: listen EADDRINUSE :::4000
+    at Server.setupListenHandle [as _listen2] (net.js:1342:14)
+    at listenInCluster (net.js:1383:12)
+    at Server.listen (net.js:1471:7)
+    at Function.listen (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\Startup\startup.js:5:16)
+    at Module._compile (module.js:649:30)
+    at Object.Module._extensions..js (module.js:660:10)
+    at Module.load (module.js:561:32)
+    at tryModuleLoad (module.js:501:12)
+    at Function.Module._load (module.js:493:3)
+  errno: 'EADDRINUSE',
+  code: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '::',
+  port: 4000 }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\info.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\info.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\error.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\error.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\warning.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\warning.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\success.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\success.log' }
+{ Error: listen EADDRINUSE :::4000
+    at Server.setupListenHandle [as _listen2] (net.js:1342:14)
+    at listenInCluster (net.js:1383:12)
+    at Server.listen (net.js:1471:7)
+    at Function.listen (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\Startup\startup.js:5:16)
+    at Module._compile (module.js:649:30)
+    at Object.Module._extensions..js (module.js:660:10)
+    at Module.load (module.js:561:32)
+    at tryModuleLoad (module.js:501:12)
+    at Function.Module._load (module.js:493:3)
+  errno: 'EADDRINUSE',
+  code: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '::',
+  port: 4000 }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\info.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\info.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\error.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\error.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\warning.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\warning.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\success.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\success.log' }
+{ Error: listen EADDRINUSE :::4000
+    at Server.setupListenHandle [as _listen2] (net.js:1342:14)
+    at listenInCluster (net.js:1383:12)
+    at Server.listen (net.js:1471:7)
+    at Function.listen (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\Startup\startup.js:5:16)
+    at Module._compile (module.js:649:30)
+    at Object.Module._extensions..js (module.js:660:10)
+    at Module.load (module.js:561:32)
+    at tryModuleLoad (module.js:501:12)
+    at Function.Module._load (module.js:493:3)
+  errno: 'EADDRINUSE',
+  code: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '::',
+  port: 4000 }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\info.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\info.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\error.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\error.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\warning.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\warning.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\success.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\success.log' }
+{ Error: listen EADDRINUSE :::4000
+    at Server.setupListenHandle [as _listen2] (net.js:1342:14)
+    at listenInCluster (net.js:1383:12)
+    at Server.listen (net.js:1471:7)
+    at Function.listen (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\Startup\startup.js:5:16)
+    at Module._compile (module.js:649:30)
+    at Object.Module._extensions..js (module.js:660:10)
+    at Module.load (module.js:561:32)
+    at tryModuleLoad (module.js:501:12)
+    at Function.Module._load (module.js:493:3)
+  errno: 'EADDRINUSE',
+  code: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '::',
+  port: 4000 }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\info.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\info.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\error.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\error.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\warning.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\warning.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\success.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\success.log' }
+{ Error: listen EADDRINUSE :::4000
+    at Server.setupListenHandle [as _listen2] (net.js:1342:14)
+    at listenInCluster (net.js:1383:12)
+    at Server.listen (net.js:1471:7)
+    at Function.listen (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\Startup\startup.js:5:16)
+    at Module._compile (module.js:649:30)
+    at Object.Module._extensions..js (module.js:660:10)
+    at Module.load (module.js:561:32)
+    at tryModuleLoad (module.js:501:12)
+    at Function.Module._load (module.js:493:3)
+  errno: 'EADDRINUSE',
+  code: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '::',
+  port: 4000 }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\info.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\info.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\error.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\error.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\warning.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\warning.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\success.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\success.log' }
+{ Error: listen EADDRINUSE :::4000
+    at Server.setupListenHandle [as _listen2] (net.js:1342:14)
+    at listenInCluster (net.js:1383:12)
+    at Server.listen (net.js:1471:7)
+    at Function.listen (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\Startup\startup.js:5:16)
+    at Module._compile (module.js:649:30)
+    at Object.Module._extensions..js (module.js:660:10)
+    at Module.load (module.js:561:32)
+    at tryModuleLoad (module.js:501:12)
+    at Function.Module._load (module.js:493:3)
+  errno: 'EADDRINUSE',
+  code: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '::',
+  port: 4000 }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\info.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\info.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\error.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\error.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\warning.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\warning.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\success.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\success.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\info.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\info.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\error.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\error.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\warning.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\warning.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\success.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\success.log' }
+{ recordsets: [],
+  recordset: undefined,
+  output: {},
+  rowsAffected: [ 1 ],
+  returnValue: 0 }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\info.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\info.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\error.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\error.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\warning.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\warning.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\success.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\success.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\info.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\info.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\error.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\error.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\warning.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\warning.log' }
+{ Error: ENOENT: no such file or directory, open 'D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\logs\success.log'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\Praveen\\Demos\\NodeJs\\20180621\\NodeWithSql\\services\\logs\\success.log' }
+{ recordsets: [],
+  recordset: undefined,
+  output: {},
+  rowsAffected: [ 1 ],
+  returnValue: 0 }
+{ recordsets: [],
+  recordset: undefined,
+  output: {},
+  rowsAffected: [ 1 ],
+  returnValue: 0 }
+{ RequestError: A TOP or FETCH clause contains an invalid value.
+    at handleError (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\mssql\lib\tedious.js:828:15)
+    at Connection.emit (events.js:180:13)
+    at Connection.emit (domain.js:439:23)
+    at Parser.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\tedious\lib\connection.js:619:16)
+    at Parser.emit (events.js:180:13)
+    at Parser.emit (domain.js:439:23)
+    at Parser.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\tedious\lib\token\token-stream-parser.js:54:15)
+    at Parser.emit (events.js:180:13)
+    at Parser.emit (domain.js:439:23)
+    at addChunk (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\readable-stream\lib\_stream_readable.js:291:12)
+  code: 'EREQUEST',
+  number: 1014,
+  lineNumber: 4,
+  state: 1,
+  class: 15,
+  serverName: 'TR-DB-02\\DEVINST',
+  procName: 'GetUsers',
+  originalError: 
+   { Error: A TOP or FETCH clause contains an invalid value.
+    at handleError (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\mssql\lib\tedious.js:826:19)
+    at Connection.emit (events.js:180:13)
+    at Connection.emit (domain.js:439:23)
+    at Parser.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\tedious\lib\connection.js:619:16)
+    at Parser.emit (events.js:180:13)
+    at Parser.emit (domain.js:439:23)
+    at Parser.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\tedious\lib\token\token-stream-parser.js:54:15)
+    at Parser.emit (events.js:180:13)
+    at Parser.emit (domain.js:439:23)
+    at addChunk (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\readable-stream\lib\_stream_readable.js:291:12)
+     info: 
+      { number: 1014,
+        state: 1,
+        class: 15,
+        message: 'A TOP or FETCH clause contains an invalid value.',
+        serverName: 'TR-DB-02\\DEVINST',
+        procName: 'GetUsers',
+        lineNumber: 4,
+        name: 'ERROR',
+        event: 'errorMessage' } },
+  name: 'RequestError',
+  precedingErrors: [] }
+{ RequestError: A TOP or FETCH clause contains an invalid value.
+    at handleError (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\mssql\lib\tedious.js:828:15)
+    at Connection.emit (events.js:180:13)
+    at Connection.emit (domain.js:439:23)
+    at Parser.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\tedious\lib\connection.js:619:16)
+    at Parser.emit (events.js:180:13)
+    at Parser.emit (domain.js:439:23)
+    at Parser.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\tedious\lib\token\token-stream-parser.js:54:15)
+    at Parser.emit (events.js:180:13)
+    at Parser.emit (domain.js:439:23)
+    at addChunk (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\readable-stream\lib\_stream_readable.js:291:12)
+  code: 'EREQUEST',
+  number: 1014,
+  lineNumber: 4,
+  state: 1,
+  class: 15,
+  serverName: 'TR-DB-02\\DEVINST',
+  procName: 'GetUsers',
+  originalError: 
+   { Error: A TOP or FETCH clause contains an invalid value.
+    at handleError (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\mssql\lib\tedious.js:826:19)
+    at Connection.emit (events.js:180:13)
+    at Connection.emit (domain.js:439:23)
+    at Parser.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\tedious\lib\connection.js:619:16)
+    at Parser.emit (events.js:180:13)
+    at Parser.emit (domain.js:439:23)
+    at Parser.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\tedious\lib\token\token-stream-parser.js:54:15)
+    at Parser.emit (events.js:180:13)
+    at Parser.emit (domain.js:439:23)
+    at addChunk (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\readable-stream\lib\_stream_readable.js:291:12)
+     info: 
+      { number: 1014,
+        state: 1,
+        class: 15,
+        message: 'A TOP or FETCH clause contains an invalid value.',
+        serverName: 'TR-DB-02\\DEVINST',
+        procName: 'GetUsers',
+        lineNumber: 4,
+        name: 'ERROR',
+        event: 'errorMessage' } },
+  name: 'RequestError',
+  precedingErrors: [] }
+{ RequestError: A TOP or FETCH clause contains an invalid value.
+    at handleError (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\mssql\lib\tedious.js:828:15)
+    at Connection.emit (events.js:180:13)
+    at Connection.emit (domain.js:439:23)
+    at Parser.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\tedious\lib\connection.js:619:16)
+    at Parser.emit (events.js:180:13)
+    at Parser.emit (domain.js:439:23)
+    at Parser.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\tedious\lib\token\token-stream-parser.js:54:15)
+    at Parser.emit (events.js:180:13)
+    at Parser.emit (domain.js:439:23)
+    at addChunk (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\readable-stream\lib\_stream_readable.js:291:12)
+  code: 'EREQUEST',
+  number: 1014,
+  lineNumber: 4,
+  state: 1,
+  class: 15,
+  serverName: 'TR-DB-02\\DEVINST',
+  procName: 'GetUsers',
+  originalError: 
+   { Error: A TOP or FETCH clause contains an invalid value.
+    at handleError (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\mssql\lib\tedious.js:826:19)
+    at Connection.emit (events.js:180:13)
+    at Connection.emit (domain.js:439:23)
+    at Parser.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\tedious\lib\connection.js:619:16)
+    at Parser.emit (events.js:180:13)
+    at Parser.emit (domain.js:439:23)
+    at Parser.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\tedious\lib\token\token-stream-parser.js:54:15)
+    at Parser.emit (events.js:180:13)
+    at Parser.emit (domain.js:439:23)
+    at addChunk (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\readable-stream\lib\_stream_readable.js:291:12)
+     info: 
+      { number: 1014,
+        state: 1,
+        class: 15,
+        message: 'A TOP or FETCH clause contains an invalid value.',
+        serverName: 'TR-DB-02\\DEVINST',
+        procName: 'GetUsers',
+        lineNumber: 4,
+        name: 'ERROR',
+        event: 'errorMessage' } },
+  name: 'RequestError',
+  precedingErrors: [] }

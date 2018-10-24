@@ -1,0 +1,187 @@
+D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read property 'send' of null
+    at process.killkid (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (events.js:180:13)
+    at process.exit (internal/process.js:147:15)
+    at monitor (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (events.js:180:13)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:12)
+D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read property 'send' of null
+    at process.killkid (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (events.js:180:13)
+    at process.exit (internal/process.js:147:15)
+    at monitor (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (events.js:180:13)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:12)
+Mon, 09 Jul 2018 07:47:24 GMT tedious deprecated The default value for `options.encrypt` will change from `false` to `true`. Please pass `false` explicitly if you want to retain current behaviour. at ..\node_modules\mssql\lib\tedious.js:212:23
+D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read property 'send' of null
+    at process.killkid (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (events.js:180:13)
+D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read property 'send' of null
+    at process.killkid (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (events.js:180:13)
+Mon, 09 Jul 2018 08:07:35 GMT tedious deprecated The default value for `options.encrypt` will change from `false` to `true`. Please pass `false` explicitly if you want to retain current behaviour. at ..\node_modules\mssql\lib\tedious.js:212:23
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be one of type string or Buffer
+    at validChunk (_stream_writable.js:253:10)
+    at WriteStream.Writable.write (_stream_writable.js:288:21)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:35:26
+    at Object.module.exports [as verify] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\jsonwebtoken\verify.js:39:12)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:32:16
+    at Layer.handle [as handle_request] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:137:13)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be one of type string or Buffer
+    at validChunk (_stream_writable.js:253:10)
+    at WriteStream.Writable.write (_stream_writable.js:288:21)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:35:26
+    at Object.module.exports [as verify] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\jsonwebtoken\verify.js:39:12)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:32:16
+    at Layer.handle [as handle_request] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:137:13)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be one of type string or Buffer
+    at validChunk (_stream_writable.js:253:10)
+    at WriteStream.Writable.write (_stream_writable.js:288:21)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:35:26
+    at Object.module.exports [as verify] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\jsonwebtoken\verify.js:39:12)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:32:16
+    at Layer.handle [as handle_request] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:137:13)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+Mon, 09 Jul 2018 13:36:27 GMT tedious deprecated The `IntN` data type is internal and will be removed. at ..\node_modules\mssql\lib\tedious.js:63:20
+Mon, 09 Jul 2018 13:36:27 GMT tedious deprecated The `BitN` data type is internal and will be removed. at ..\node_modules\mssql\lib\tedious.js:71:40
+Mon, 09 Jul 2018 13:36:27 GMT tedious deprecated The `FloatN` data type is internal and will be removed. at ..\node_modules\mssql\lib\tedious.js:73:20
+Mon, 09 Jul 2018 13:36:27 GMT tedious deprecated The `MoneyN` data type is internal and will be removed. at ..\node_modules\mssql\lib\tedious.js:78:20
+Mon, 09 Jul 2018 13:36:27 GMT tedious deprecated The `NumericN` data type is internal and will be removed. at ..\node_modules\mssql\lib\tedious.js:82:44
+Mon, 09 Jul 2018 13:36:27 GMT tedious deprecated The `DecimalN` data type is internal and will be removed. at ..\node_modules\mssql\lib\tedious.js:83:44
+Mon, 09 Jul 2018 13:36:27 GMT tedious deprecated The `DateTimeN` data type is internal and will be removed. at ..\node_modules\mssql\lib\tedious.js:85:20
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be one of type string or Buffer
+    at validChunk (_stream_writable.js:253:10)
+    at WriteStream.Writable.write (_stream_writable.js:288:21)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:35:26
+    at Object.module.exports [as verify] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\jsonwebtoken\verify.js:39:12)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:32:16
+    at Layer.handle [as handle_request] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:137:13)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be one of type string or Buffer
+    at validChunk (_stream_writable.js:253:10)
+    at WriteStream.Writable.write (_stream_writable.js:288:21)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:35:26
+    at Object.module.exports [as verify] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\jsonwebtoken\verify.js:39:12)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:32:16
+    at Layer.handle [as handle_request] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:137:13)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be one of type string or Buffer
+    at validChunk (_stream_writable.js:253:10)
+    at WriteStream.Writable.write (_stream_writable.js:288:21)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:35:26
+    at Object.module.exports [as verify] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\jsonwebtoken\verify.js:39:12)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:32:16
+    at Layer.handle [as handle_request] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:137:13)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be one of type string or Buffer
+    at validChunk (_stream_writable.js:253:10)
+    at WriteStream.Writable.write (_stream_writable.js:288:21)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:35:26
+    at Object.module.exports [as verify] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\jsonwebtoken\verify.js:39:12)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:32:16
+    at Layer.handle [as handle_request] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:137:13)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be one of type string or Buffer
+    at validChunk (_stream_writable.js:253:10)
+    at WriteStream.Writable.write (_stream_writable.js:288:21)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:35:26
+    at Object.module.exports [as verify] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\jsonwebtoken\verify.js:39:12)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:32:16
+    at Layer.handle [as handle_request] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:137:13)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be one of type string or Buffer
+    at validChunk (_stream_writable.js:253:10)
+    at WriteStream.Writable.write (_stream_writable.js:288:21)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:35:26
+    at Object.module.exports [as verify] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\jsonwebtoken\verify.js:39:12)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:32:16
+    at Layer.handle [as handle_request] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:137:13)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be one of type string or Buffer
+    at validChunk (_stream_writable.js:253:10)
+    at WriteStream.Writable.write (_stream_writable.js:288:21)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:35:26
+    at Object.module.exports [as verify] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\jsonwebtoken\verify.js:39:12)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:32:16
+    at Layer.handle [as handle_request] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:137:13)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be one of type string or Buffer
+    at validChunk (_stream_writable.js:253:10)
+    at WriteStream.Writable.write (_stream_writable.js:288:21)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:35:26
+    at Object.module.exports [as verify] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\jsonwebtoken\verify.js:39:12)
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\server.js:32:16
+    at Layer.handle [as handle_request] (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:137:13)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+    at next (D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\express\lib\router\route.js:131:14)
+(node:8144) UnhandledPromiseRejectionWarning: ReferenceError: next is not defined
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\routes\user.js:23:20
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\userservice.js:44:20
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:118:7)
+(node:8144) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:8144) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:8144) UnhandledPromiseRejectionWarning: ReferenceError: next is not defined
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\routes\user.js:23:20
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\userservice.js:44:20
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:118:7)
+(node:8144) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:8144) UnhandledPromiseRejectionWarning: ReferenceError: next is not defined
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\routes\user.js:23:20
+    at D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services\userservice.js:44:20
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:118:7)
+(node:8144) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)

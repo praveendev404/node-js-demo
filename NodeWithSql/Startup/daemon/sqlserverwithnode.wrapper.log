@@ -1,0 +1,30 @@
+2018-07-09 13:15:16 - Starting D:\Program Files\nodejs\node.exe  --harmony D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js --file D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\Startup\startup.js --log "SqlServerWithNode wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-07-09 13:15:16 - Started 7616
+2018-07-09 13:15:53 - Starting D:\Program Files\nodejs\node.exe  --harmony D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js --file D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\Startup\startup.js --log "SqlServerWithNode wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-07-09 13:15:53 - Started 12700
+2018-07-09 13:17:20 - Starting D:\Program Files\nodejs\node.exe  --harmony D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js --file D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\Startup\startup.js --log "SqlServerWithNode wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-07-09 13:17:20 - Started 15232
+2018-07-09 13:36:50 - Stopping sqlserverwithnode.exe
+2018-07-09 13:36:50 - ProcessKill 15232
+2018-07-09 13:36:52 - Found child process: 13436 Name: node.exe
+2018-07-09 13:36:52 - Stopping process 13436
+2018-07-09 13:36:52 - Send SIGINT 13436
+2018-07-09 13:36:52 - SIGINT to 13436 failed - Killing as fallback
+2018-07-09 13:36:52 - Stopping process 15232
+2018-07-09 13:36:52 - Send SIGINT 15232
+2018-07-09 13:36:52 - SIGINT to15232 successful
+2018-07-09 13:36:52 - Finished sqlserverwithnode.exe
+2018-07-09 13:36:53 - Starting D:\Program Files\nodejs\node.exe  --harmony D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js --file D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\Startup\startup.js --log "SqlServerWithNode wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-07-09 13:36:53 - Started 13768
+2018-07-09 13:37:30 - Stopping sqlserverwithnode.exe
+2018-07-09 13:37:30 - ProcessKill 13768
+2018-07-09 13:37:30 - Found child process: 5896 Name: node.exe
+2018-07-09 13:37:30 - Stopping process 5896
+2018-07-09 13:37:30 - Send SIGINT 5896
+2018-07-09 13:37:30 - SIGINT to 5896 failed - Killing as fallback
+2018-07-09 13:37:30 - Stopping process 13768
+2018-07-09 13:37:30 - Send SIGINT 13768
+2018-07-09 13:37:30 - SIGINT to13768 successful
+2018-07-09 13:37:30 - Finished sqlserverwithnode.exe
+2018-07-09 13:37:31 - Starting D:\Program Files\nodejs\node.exe  --harmony D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js --file D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\Startup\startup.js --log "SqlServerWithNode wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-07-09 13:37:31 - Started 10036

@@ -1,0 +1,25 @@
+<service>
+	<id>sqlserverwithnode.exe</id>
+	<name>SqlServerWithNode</name>
+	<description>Node js demo with sql server database.</description>
+	<executable>D:\Program Files\nodejs\node.exe</executable>
+	<logmode>rotate</logmode>
+	<argument>--harmony</argument>
+	<argument>D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\Startup\startup.js</argument>
+	<argument>--log</argument>
+	<argument>SqlServerWithNode wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<stoptimeout>30sec</stoptimeout>
+	<workingdirectory>D:\Praveen\Demos\NodeJs\20180621\NodeWithSql\services</workingdirectory>
+</service>

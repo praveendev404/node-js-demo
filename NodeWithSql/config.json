@@ -1,0 +1,22 @@
+{
+    "dbConfig": {
+        "server": "TR-VLT-002\\SQLEXPRESS",
+        "database": "SampleDB",
+        "user": "sa",
+        "password": "test12$",
+        "port": "1433"
+    },
+    "secretKey": "XYZABC",
+    "upload_path": "uploads",
+    "mailConfig": {
+        "user": "rambpraveen@gmail.com",
+        "password": "9959283559"
+    },
+    "mailOptions": {
+        "from": "bpraveen078@gmail.com",
+        "to": "praveenkumar.b@techraq.com",
+        "subject": "Sending Email using Node.js",
+        "text": "Test mail",
+        "html": "<b>Hi all!</b>"
+    }
+}
